@@ -1,0 +1,5 @@
+LIBRARY HelloJni
+
+EXPORTS
+
+Java_HelloNativeTest_greeting
